@@ -1,4 +1,6 @@
 payload:
+  # custom
+  - DOMAIN-SUFFIX,tinyurl.com/23b53ufp
   # Hotstar
   - DOMAIN-SUFFIX,heytapmobile.com
   - DOMAIN-SUFFIX,newrelic.com
